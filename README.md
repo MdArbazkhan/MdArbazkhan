@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Arbaz
+- 👀 I'm a Front End Developer. I mostly use HTML, CSS and JS for Front End. Python is my main tool. 
+- 🌱 Currently learning Django
+- 💞️ I’m looking to collaborate on Web Apps. 
+- 📫 reach out to me via mail - arbazkhan2772@gmail.com
